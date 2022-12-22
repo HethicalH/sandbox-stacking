@@ -1,20 +1,25 @@
-# sandbox-stacking
+# Sandbox-stacking
+
 The Stacking Up Of Sandbox and Staking
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
-### `yarn start`
+| yarn start |
+| ---------- |
 
-Runs the app in the development mode.\
+Runs the app in the development mode.
+
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-### `yarn test`
+| yarn test |
+| --------- |
 
 Launches the test runner in the interactive watch mode.
 
-### `yarn run eject`
+| yarn run eject |
+| -------------- |
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
